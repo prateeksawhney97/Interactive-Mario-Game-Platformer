@@ -36,12 +36,13 @@ let player_config = {
 
 
 function preload(){
-    this.load.image("ground","Assets/topground.png");
-    this.load.image("sky","Assets/background.png");
-    this.load.image("apple","Assets/apple.png");
-    this.load.spritesheet("dude","Assets/dude.png",{frameWidth:32,frameHeight:48});
+
+    this.load.image("ground","https://user-images.githubusercontent.com/34116562/85923039-5dbcf280-b8a5-11ea-9e4d-9452f86a334d.png");
+    this.load.image("sky","https://user-images.githubusercontent.com/34116562/85923027-50a00380-b8a5-11ea-8bd6-81a5243eda36.png");
+    this.load.image("apple","https://user-images.githubusercontent.com/34116562/85923026-4da51300-b8a5-11ea-8476-190f4d5faa87.png");
+    this.load.spritesheet("dude","https://user-images.githubusercontent.com/34116562/85923036-57c71180-b8a5-11ea-886b-8aded128aa1d.png",{frameWidth:32,frameHeight:48});
     
-    this.load.image("ray","Assets/ray.png");
+    this.load.image("ray","https://user-images.githubusercontent.com/34116562/85923038-5bf32f00-b8a5-11ea-9103-436a3a82605c.png");
     
     
     
