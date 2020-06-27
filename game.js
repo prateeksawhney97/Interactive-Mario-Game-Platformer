@@ -37,12 +37,12 @@ let player_config = {
 
 function preload(){
 
-    this.load.image("ground","https://user-images.githubusercontent.com/34116562/85923039-5dbcf280-b8a5-11ea-9e4d-9452f86a334d.png");
-    this.load.image("sky","https://user-images.githubusercontent.com/34116562/85923027-50a00380-b8a5-11ea-8bd6-81a5243eda36.png");
-    this.load.image("apple","https://user-images.githubusercontent.com/34116562/85923026-4da51300-b8a5-11ea-8476-190f4d5faa87.png");
-    this.load.spritesheet("dude","https://user-images.githubusercontent.com/34116562/85923036-57c71180-b8a5-11ea-886b-8aded128aa1d.png",{frameWidth:32,frameHeight:48});
+    this.load.image("ground","https://raw.githubusercontent.com/prateeksawhney97/Interactive-Mario-Game-Platformer/master/Assets/topground.png?token=AIEJHUX4LH4IZNARTFX3YPK7ACBGQ");
+    this.load.image("sky","https://raw.githubusercontent.com/prateeksawhney97/Interactive-Mario-Game-Platformer/master/Assets/background.png?token=AIEJHUVNYNPL3YYPD4SXFH27ACA6W");
+    this.load.image("apple","https://raw.githubusercontent.com/prateeksawhney97/Interactive-Mario-Game-Platformer/master/Assets/apple.png?token=AIEJHUUKBOCLJOL7TQQXKMC7ACA3G");
+    this.load.spritesheet("dude","https://raw.githubusercontent.com/prateeksawhney97/Interactive-Mario-Game-Platformer/master/Assets/dude.png?token=AIEJHUQ74P4J5GKHO6LXHY27ACBBQ",{frameWidth:32,frameHeight:48});
     
-    this.load.image("ray","https://user-images.githubusercontent.com/34116562/85923038-5bf32f00-b8a5-11ea-9103-436a3a82605c.png");
+    this.load.image("ray","https://raw.githubusercontent.com/prateeksawhney97/Interactive-Mario-Game-Platformer/master/Assets/ray.png?token=AIEJHUVZZCH5Z5IPSJ25YA27ACBDG");
     
     
     
