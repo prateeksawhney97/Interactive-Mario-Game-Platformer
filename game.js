@@ -3,7 +3,7 @@ let config = {
     
     scale:{
         mode:Phaser.Scale.FIT,
-        width : 800,
+        width : 1300,
         height :600,
     },
     
